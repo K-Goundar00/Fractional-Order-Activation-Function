@@ -1,7 +1,7 @@
 # Fractional-Order-Activation-Function
 Enhancing Neural Networks for Medical Diagnosis Using Fractional Order Activation Functions
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
-Download the Fractional-Order-Activation-Function.zip
+Download Enhancing Neural Networks for Medical Diagnosis Using Fractional Order Activation Functions.zip
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 This Python application trains a basic feedforward neural network 30 times for each of the six activation functions including three custom fractional-order functions—and logs the outcomes. 
